@@ -12,7 +12,7 @@ A personal Tableau project built around a real-world e-commerce scenario, analyz
 
 ## 📌 Project Overview
 
-This is a personal portfolio project where I took on the scenario of a data analyst supporting a fast-growing e-commerce client in understanding their website performance. The goal is to support data-driven decision-making by visualizing key web metrics — including traffic source performance, user engagement levels, conversion cycles, and bounce patterns — in a single, interactive interface.
+This is a personal portfolio project where I took on the scenario of a data analyst supporting a fast-growing e-commerce client in understanding their website performance. The goal is to support data-driven decision-making by visualizing key web metrics — including traffic source performance, user engagement levels, conversion cycles, and bounce patterns, in a single, interactive interface.
 
 The dashboard is designed for four primary user groups: **Digital Marketing Managers**, **Content Strategists**, **SEO Analysts**, and **Business Stakeholders**, each of whom can interact with filters to extract insights relevant to their role.
 
