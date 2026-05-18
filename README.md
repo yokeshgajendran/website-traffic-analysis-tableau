@@ -81,7 +81,7 @@ Visualizes new user counts by country, filterable by website platform. Supports 
 
 > **Overall Dashboard View**
 
-![Website Traffic Analysis Dashboard](assets/dashboard_overview.png)
+![Website Traffic Analysis Dashboard](dashboard.png)
 
 > **Data Story — Seasonal Conversion Trends**
 
