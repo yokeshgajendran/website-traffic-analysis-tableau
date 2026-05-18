@@ -83,14 +83,6 @@ Visualizes new user counts by country, filterable by website platform. Supports 
 
 ![Website Traffic Analysis Dashboard](dashboard.png)
 
-> **Data Story — Seasonal Conversion Trends**
-
-![Seasonal Conversion Trends](assets/story_seasonal_trends.png)
-
-> **Data Story — Traffic Source & Bounce Rate Insights**
-
-![Traffic Source Insights](assets/story_traffic_source.png)
-
 ---
 
 ## 🧠 Key Insights
