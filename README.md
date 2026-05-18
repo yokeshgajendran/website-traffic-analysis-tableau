@@ -1,6 +1,6 @@
 # Website Traffic Dashboard Analysis — Tableau
 
-A professional Tableau dashboard built to analyze website traffic performance for an e-commerce client, covering conversion trends, traffic source effectiveness, user engagement, bounce behavior, and geographic distribution of new users.
+A personal Tableau project built around a real-world e-commerce scenario, analyzing website traffic performance across conversion trends, traffic source effectiveness, user engagement, bounce behavior, and geographic distribution of new users.
 
 ---
 
@@ -12,7 +12,7 @@ A professional Tableau dashboard built to analyze website traffic performance fo
 
 ## 📌 Project Overview
 
-Working in the role of a data analyst at a digital marketing firm, this project delivers an interactive Tableau dashboard and story for an e-commerce client. The goal is to support data-driven decision-making by visualizing key web metrics — including traffic source performance, user engagement levels, conversion cycles, and bounce patterns — in a single, interactive interface.
+This is a personal portfolio project where I took on the scenario of a data analyst supporting a fast-growing e-commerce client in understanding their website performance. The goal is to support data-driven decision-making by visualizing key web metrics — including traffic source performance, user engagement levels, conversion cycles, and bounce patterns — in a single, interactive interface.
 
 The dashboard is designed for four primary user groups: **Digital Marketing Managers**, **Content Strategists**, **SEO Analysts**, and **Business Stakeholders**, each of whom can interact with filters to extract insights relevant to their role.
 
