@@ -6,7 +6,7 @@ A professional Tableau dashboard built to analyze website traffic performance fo
 
 ## 🔗 Live Dashboard
 
-> **[View Interactive Dashboard on Tableau Public](https://public.tableau.com/shared/7NGMP8TNX?:display_count=n&:origin=viz_share_link)**
+> **[View Interactive Dashboard on Tableau Public](https://public.tableau.com/views/WebsiteTrafficAnalysis_17714085242800/WebsiteTrafficAnalysis?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
 
 ---
 
